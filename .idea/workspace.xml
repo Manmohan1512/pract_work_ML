@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a378b1be-0091-48c5-9a51-b40081595b7f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Part 1 - Data Preprocessing/Section 2/R/Data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 1 - Data Preprocessing/Section 2/R/categorical_data.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 1 - Data Preprocessing/Section 2/R/data_preprocessing_template.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 1 - Data Preprocessing/Section 2/R/missing_data.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 10 - Model Selection _ Boosting/Section 48 - Model Selection/R/Social_Network_Ads.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 10 - Model Selection _ Boosting/Section 48 - Model Selection/R/grid_search.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 10 - Model Selection _ Boosting/Section 48 - Model Selection/R/k_fold_cross_validation.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 10 - Model Selection _ Boosting/Section 49 - XGBoost/R/Churn_Modelling.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 10 - Model Selection _ Boosting/Section 49 - XGBoost/R/xg_boost.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 2 - Regression/Section 4 - Simple Linear Regression/R/Salary_Data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 2 - Regression/Section 4 - Simple Linear Regression/R/data_preprocessing_template.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 2 - Regression/Section 4 - Simple Linear Regression/R/simple_linear_regression.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 2 - Regression/Section 5 - Multiple Linear Regression/R/50_Startups.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 2 - Regression/Section 5 - Multiple Linear Regression/R/data_preprocessing_template.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 2 - Regression/Section 5 - Multiple Linear Regression/R/multiple_linear_regression.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 2 - Regression/Section 6 - Polynomial Regression/R/Position_Salaries.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 2 - Regression/Section 6 - Polynomial Regression/R/data_preprocessing_template.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 2 - Regression/Section 6 - Polynomial Regression/R/polynomial_regression.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 2 - Regression/Section 7 - Support Vector Regression (SVR)/R/Position_Salaries.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 2 - Regression/Section 7 - Support Vector Regression (SVR)/R/data_preprocessing_template.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 2 - Regression/Section 7 - Support Vector Regression (SVR)/R/svr.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 2 - Regression/Section 8 - Decision Tree Regression/R/Position_Salaries.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 2 - Regression/Section 8 - Decision Tree Regression/R/decision_tree_regression.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 2 - Regression/Section 8 - Decision Tree Regression/R/regression_template.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 2 - Regression/Section 9 - Random Forest Regression/R/Position_Salaries.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 2 - Regression/Section 9 - Random Forest Regression/R/random_forest_regression.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 2 - Regression/Section 9 - Random Forest Regression/R/regression_template.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 3 - Classification/Section 14 - Logistic Regression/R/Social_Network_Ads.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 3 - Classification/Section 14 - Logistic Regression/R/logistic_regression.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 3 - Classification/Section 15 - K-Nearest Neighbors (K-NN)/R/Social_Network_Ads.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 3 - Classification/Section 15 - K-Nearest Neighbors (K-NN)/R/classification_template.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 3 - Classification/Section 15 - K-Nearest Neighbors (K-NN)/R/knn.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 3 - Classification/Section 16 - Support Vector Machine (SVM)/R/Social_Network_Ads.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 3 - Classification/Section 16 - Support Vector Machine (SVM)/R/classification_template.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 3 - Classification/Section 16 - Support Vector Machine (SVM)/R/svm.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/R/Social_Network_Ads.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/R/classification_template.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/R/naive_bayes.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 3 - Classification/Section 19 - Decision Tree Classification/R/Social_Network_Ads.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 3 - Classification/Section 19 - Decision Tree Classification/R/classification_template.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 3 - Classification/Section 19 - Decision Tree Classification/R/decision_tree_classification.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 3 - Classification/Section 20 - Random Forest Classification/R/Social_Network_Ads.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 3 - Classification/Section 20 - Random Forest Classification/R/classification_template.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 3 - Classification/Section 20 - Random Forest Classification/R/random_forest_classification.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 4 - Clustering/Section 24 - K-Means Clustering/R/Mall_Customers.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 4 - Clustering/Section 24 - K-Means Clustering/R/data_preprocessing_template.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 4 - Clustering/Section 24 - K-Means Clustering/R/k_means_clustering.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 4 - Clustering/Section 25 - Hierarchical Clustering/R/Mall_Customers.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 4 - Clustering/Section 25 - Hierarchical Clustering/R/data_preprocessing_template.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 4 - Clustering/Section 25 - Hierarchical Clustering/R/hc.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 5 - Association Rule Learning/Section 28 - Apriori/R/Market_Basket_Optimisation.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 5 - Association Rule Learning/Section 28 - Apriori/R/apriori.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 5 - Association Rule Learning/Section 29 - Eclat/R/Market_Basket_Optimisation.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 5 - Association Rule Learning/Section 29 - Eclat/R/eclat.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 6 - Reinforcement Learning/Section 32 - Upper Confidence Bound (UCB)/R/Ads_CTR_Optimisation.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 6 - Reinforcement Learning/Section 32 - Upper Confidence Bound (UCB)/R/random_selection.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 6 - Reinforcement Learning/Section 32 - Upper Confidence Bound (UCB)/R/upper_confidence_bound.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 7 - Natural Language Processing/Section 36 - Natural Language Processing/R/Restaurant_Reviews.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 7 - Natural Language Processing/Section 36 - Natural Language Processing/R/natural_language_processing.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 8 - Deep Learning/Section 39 - Artificial Neural Networks (ANN)/R/Churn_Modelling.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 8 - Deep Learning/Section 39 - Artificial Neural Networks (ANN)/R/ann.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 9 - Dimensionality Reduction/Section 43 - Principal Component Analysis (PCA)/R/Wine.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 9 - Dimensionality Reduction/Section 43 - Principal Component Analysis (PCA)/R/pca.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 9 - Dimensionality Reduction/Section 44 - Linear Discriminant Analysis (LDA)/R/Wine.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 9 - Dimensionality Reduction/Section 44 - Linear Discriminant Analysis (LDA)/R/lda.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 9 - Dimensionality Reduction/Section 45 - Kernel PCA/R/Social_Network_Ads.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 9 - Dimensionality Reduction/Section 45 - Kernel PCA/R/kernel_pca.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/langchain_pract/requirement.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/langchain_pract/serve.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="359AgaTwNzLv3B5c9xLbQHsdZZX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Notes/git-repo/pract_work_ML&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Notes\git-repo\pract_work_ML" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a378b1be-0091-48c5-9a51-b40081595b7f" name="Changes" comment="" />
+      <created>1762512036521</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762512036521</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ID_WIDTH">
+                <map>
+                  <entry key="Table.Default.Author.ColumnIdWidth" value="117" />
+                  <entry key="Table.Default.Date.ColumnIdWidth" value="115" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="text">
+                    <value>
+                      <list>
+                        <option value="add more exercise" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
